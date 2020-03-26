@@ -8,3 +8,4 @@ Kia
 Lexus GX470
 Subaru
 Honda Civic
+Kia Optima
