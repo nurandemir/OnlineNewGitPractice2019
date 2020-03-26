@@ -6,3 +6,5 @@ Tesla
 Mercedes
 Kia
 Lexus GX470
+Subaru
+Honda Civic
